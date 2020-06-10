@@ -1,0 +1,2 @@
+tesseract /home/sidio01/PycharmProjects/invoices-ocr/test_image.jpg /home/sidio01/PycharmProjects/invoices-ocr/text_result.txt -l rus
+
